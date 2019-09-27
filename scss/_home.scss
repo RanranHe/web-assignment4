@@ -2,8 +2,16 @@ body {
     background-color: rgba($brand-color, 0.1);
 }
 
-.title {
-    margin-top: 50px;
+//.title {
+//    margin-top: 50px;
+//    width: 100%;
+//    text-align: center;
+//}
+
+div img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: 100%;
-    text-align: center;
+    transform: translate(-50%, -50%);
 }

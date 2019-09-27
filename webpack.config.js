@@ -5,7 +5,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CleanWebpackPlugin = require('clean-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
-let outDirectory = path.resolve(__dirname, 'dist');
+let outDirectory = path.resolve(__dirname);
 let outputFilename = '[name].js';
 
 module.exports = {
