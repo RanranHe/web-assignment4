@@ -1,0 +1,72 @@
+.title {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  z-index: 10;
+  position: fixed;
+}
+
+//First line of title
+.title nav {
+  background-color: white;
+  color: #9e9e9e;
+  height: 40px;
+  z-index: 11;
+  width: 100%;
+  font-size: 14px;
+  line-height: 40px;
+  vertical-align: middle;
+}
+
+// first line "welcome"
+.title nav .t_left {
+  float: left;
+  margin-left: 15%;
+}
+
+//first line "phone"
+.title nav .t_right {
+  float: right;
+  margin-right: 15%;
+}
+
+// email green color
+.title nav .t_right span {
+  color: #018265;
+}
+
+// second line of title
+.title nav + nav {
+  border-top: 1px solid #9e9e9e;
+  height: 70px;
+  line-height: 70px;
+}
+
+// "CleanNow" sign
+.sign {
+  color: #018265;
+  font-family: 'Baloo', serif;
+  font-size: 25px;
+  margin-right: 8%;
+}
+
+.title nav + nav > a{
+  float: right;
+  margin-left: 2%;
+}
+
+// radius shape
+.radius {
+  width: 130px;
+  height: 50px;
+  background: #018265;
+  border-radius: 100px;
+  margin-top: 10px;
+}
+
+p{
+  color: white;
+  text-align: center;
+  margin-top: -10px;
+}
