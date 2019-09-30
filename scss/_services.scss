@@ -5,6 +5,7 @@
   height: 600px;
 }
 
+// images
 .white_2 div div img {
   margin-top: 5%;
   width: 100%;
@@ -12,17 +13,20 @@
   display: inline-block;
 }
 
+// give blocks a 100% length
 .white_2 > div {
   width: 100%;
   height: 370px;
 }
 
+// each block 16%
 .white_2 > div > div {
   text-align: left;
   margin-left: 1%;
   width: 16%;
 }
 
+// button
 .white_2 .radius {
   width: 20%;
   height: 50px;
@@ -33,6 +37,7 @@
   vertical-align: center;
 }
 
+// button color with href
 .white_2 .radius a{
   color: white;
 }
