@@ -1,0 +1,38 @@
+.white_2 {
+  margin-top: 1300px;
+  background: #fafafa;
+  text-align: center;
+  height: 600px;
+}
+
+.white_2 div div img {
+  margin-top: 5%;
+  width: 100%;
+  height: 160px;
+  display: inline-block;
+}
+
+.white_2 > div {
+  width: 100%;
+  height: 370px;
+}
+
+.white_2 > div > div {
+  text-align: left;
+  margin-left: 1%;
+  width: 16%;
+}
+
+.white_2 .radius {
+  width: 20%;
+  height: 50px;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+  line-height: 50px;
+  vertical-align: center;
+}
+
+.white_2 .radius a{
+  color: white;
+}
