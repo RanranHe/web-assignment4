@@ -1,0 +1,57 @@
+//Testimonials
+.white_7 {
+  width: 100%;
+  font-family: 'Adamina', serif;
+  position: absolute;
+  text-align: center;
+  color: #308268;
+  margin-top: 4750px;
+  background-color: white;
+  height: 600px;
+}
+
+// title
+.white_7 h1 {
+  margin-top: 6%;
+}
+
+// each line 100%
+.white > div {
+  width: 100%;
+  display: inline-block;
+}
+
+// for picture box
+.white_7 > div > div {
+  width: 15%;
+  height: 15%;
+  display: inline-block;
+  margin-top: 3%;
+}
+
+// photo
+.white_7 > div img {
+  width: 100%;
+}
+
+// description
+.white_7 > div > p {
+  margin-top: 4%;
+  display: inline-block;
+  width: 60%;
+  color: #4c4c4c;
+}
+
+// ceo name box
+.white_7 > div .ceo {
+  margin: 0;
+  display: inline-block;
+  width: 30%;
+  background-color: #308268;
+}
+
+// ceo text
+.white_7 > div .ceo p {
+  color: white;
+  margin: 1%;
+}
