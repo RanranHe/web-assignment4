@@ -1,0 +1,69 @@
+// info
+.white_9 {
+  width: 100%;
+  height: 320px;
+  position: absolute;
+  margin-top: 6570px;
+  z-index: -1;
+  font-family: 'Adamina', serif;
+  color: #308268;
+}
+
+// 4 blocks
+.white_9 > div {
+  margin-top: 4%;
+  margin-left: 2%;
+  width: 14%;
+  color: #9e9e9e;
+  float: left;
+  display:inline-block;
+}
+
+// CleanNow Sign
+.white_9 .col_1 .sign {
+  margin-bottom: 5%;
+}
+
+// title
+.white_9 > div h5 {
+  width: 100%;
+  margin: 0;
+  line-height: 40px;
+  margin-bottom: 10%;
+  color: #404040;
+  font-weight: 900;
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+// first column
+.white_9 .col_1 {
+  margin-left: 15%;
+  width: 22%;
+  margin-right: 2%;
+}
+
+// third column
+.white_9 .col_3 {
+  margin-left: 0;
+}
+
+// forth column
+.white_9 .col_4 {
+  margin-left: 2%;
+}
+
+// text
+.white_9 > div p, .white_9 > div > a {
+  display: inline-block;
+  width: 100%;
+  line-height: 20px;
+  margin-bottom: 3%;
+  font-size: 12.5px;
+  margin-top: 0;
+}
+
+// color of cleannow in copyright line
+.white_9 > div p b {
+  color: #404040;
+}
