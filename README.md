@@ -6,7 +6,7 @@ A demo app for SCSS Webpack configuration.
 1. Install webpack using 'npm install -g webpack' command.
 2. Install 'webpack-cli'.
 3. Install file-loader using 'npm install file-loader'.
-4. Clone the repository 'git clone'.
+4. Clone the repository 'git clone https://github.com/neu-mis-info6150-fall-2019/assignment-4-RanranHe.git'.
 5. Run 'npm install'.
 
 ## Build
