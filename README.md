@@ -1,11 +1,13 @@
-# scss-webpack-template
+# Assignment - 4
 
 A demo app for SCSS Webpack configuration.
 
 ## Installation
-1. Clone the repository `git clone git@github.com:amuthanarulraj/scss-webpack-template.git`.
-2. Navigate to project directory `cd scss-webpack-template`.
-3. Run `npm install`.
+1. Install webpack using 'npm install -g webpack' command.
+2. Install 'webpack-cli'.
+3. Install file-loader using 'npm install file-loader'.
+4. Clone the repository 'git clone'.
+5. Run 'npm install'.
 
 ## Build
 Default build mode is `production`. This will build `index.html `, `main.js` and `main.css` files in the `dist` directory.
