@@ -1,0 +1,44 @@
+// Our projects
+.white_8 {
+  width: 100%;
+  font-family: 'Adamina', serif;
+  position: absolute;
+  text-align: center;
+  color: #318d73;
+  margin-top: 5336px;
+  background-color: white;
+  height: 400px;
+  z-index: 3;
+}
+
+// title
+.white_8 h1 {
+  margin-top: 6%;
+}
+
+// give this line of images a box frame
+.white_8 > div {
+  overflow: hidden;
+  margin-top: 4%;
+  margin-left: -1%;
+  width: 101%;
+  display: inline-block;
+  height: 230px;
+  bottom: 0;
+  z-index: 6;
+}
+
+// give image a box frame
+.white_8 > div > a {
+  width: 25%;
+  height: 100%;
+  float: left;
+  display: inline-block;
+}
+
+// images
+.white_8 > div > a img {
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}

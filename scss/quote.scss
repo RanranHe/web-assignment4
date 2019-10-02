@@ -1,0 +1,77 @@
+// Instant Quote
+.image_2 {
+  width: 100%;
+  height: 800px;
+  position: absolute;
+  margin-top: 5750px;
+  z-index: -1;
+  font-family: 'Adamina', serif;
+  color: #308268;
+}
+
+
+// the background image
+.image_2 img {
+  position: absolute;
+  margin-left: -1%;
+  width: 101%;
+  height: 100%;
+}
+
+// the form
+.image_2 .form {
+  position: absolute;
+  background-color: white;
+  width: 33%;
+  height: 600px;
+  border: 1px solid #9e9e9e;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 60%;
+}
+
+// title of the form
+.image_2 .form h3 {
+  margin-top: 12%;
+  margin-bottom: 8%;
+}
+
+// give form a box frame
+.image_2 .form form {
+  display: inline-block;
+  width: 85%;
+}
+
+// form input
+.image_2 .form form input {
+  width: 100%;
+  height: 50px;
+  font-size: 14px;
+  background-color: #ebebeb;
+  border: 0;
+  margin-bottom: 6%;
+}
+
+// form textarea
+.image_2 .form form textarea {
+  width: 100%;
+  font-size: 14px;
+  border: 0;
+  background-color: #ebebeb;
+  height: 150px;
+}
+
+// form button
+.image_2 .form form .green {
+  margin-top: 6%;
+  width: 101%;
+  display: inline-block;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+// button text
+.image_2 .form form span {
+  color: white;
+}
